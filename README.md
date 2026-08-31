@@ -15,3 +15,4 @@ No secrets belong in this repository.
 Initial scaffold.
 
 The Discord voice adapter will be added only after the existing Ambient Gateway contract is verified.
+Ambient Ear v1 deployment trigger.
